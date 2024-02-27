@@ -2,5 +2,5 @@
 tmp/
 .pytest_cache/
 data/
-resouorces/cookie
+resources/cookie
 poetry.lock
