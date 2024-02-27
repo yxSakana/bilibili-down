@@ -1,0 +1,6 @@
+.idea/
+tmp/
+.pytest_cache/
+data/
+resouorces/cookie
+poetry.lock
